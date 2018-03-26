@@ -1,0 +1,56 @@
+body {
+  font-family: helvetica;
+  margin:0;
+}
+
+.about{
+  background-clor: papayawhip;
+}
+
+h1, h2 {
+  margin:0;
+}
+
+
+header{
+  background-color:#6D214F;
+  color:#ffcccc;
+  height: 15vh;
+  text-align: center;
+  padding-top: 2rem;
+  
+}
+a:link {
+  color:#ffcccc;
+}
+a:visited {
+  color:#60a3bc;
+}
+
+.about{
+  background-color:#ffcccc;
+  color: #6D214F;
+  height:100vh;
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.gallery {
+   background-color:#6D214F;
+  color: #ffcccc;
+  height:110vh;
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.logo {
+  margin-top: 2rem;
+  height: 15rem;
+}
+.contact {
+  background-color:#ffcccc;
+  color: #6D214F;
+  height:100vh;
+  padding-top: 2rem;
+  text-align: center;
+}
